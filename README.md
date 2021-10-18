@@ -10,3 +10,7 @@ Download the drivers you want to use from https://selenium-python.readthedocs.io
 # References
 
 [Python with Selenium cheat sheet](http://allselenium.info/python-selenium-commands-cheat-sheet-frequently-used/)
+
+[Tutorials](https://www.seleniumeasy.com/)
+
+[Demo to test](https://demo.seleniumeasy.com/)
